@@ -19,5 +19,11 @@ It's not obvious what the objectives are. That's a game design problem I've sinc
 * Hit the final target by picking up the Bird-Shot with the X key
 * Walk into the end-level door and see your stats!
 
+### Compiling yourself
+This game was made and compiled in GameMaker Studio 1.4. I can't guarantee how the conversion to the newer 2.x versions of GMS will go.
+
 
 ### Screenshots
+![screen1](Screenshots/1.png)
+![screen2](Screenshots/2.png)
+![screen2](Screenshots/3.png)
